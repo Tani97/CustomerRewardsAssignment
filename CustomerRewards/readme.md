@@ -98,3 +98,8 @@ If there's no customer data found with mentioned Id then below error should be s
 This is being handled by creating custom exception in the com.customerRewards.Exception package
 
 Junit test class for testing the logic in customerService class is written here - /CustomerRewards/src/test/java/com/customerRewards/service/CustomerServiceTest.java
+
+Database snapshots-
+____________________
+
+![image](https://github.com/user-attachments/assets/763c174f-925f-4f0b-8327-f5620d0e5de1)
