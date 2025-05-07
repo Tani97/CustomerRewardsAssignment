@@ -1,5 +1,14 @@
 Customer Rewards Project:
 --------------------------
+
+******* Before running this project please update your sql username and password in application.properties file
+**
+spring.datasource.username= {Enter your sql Username}
+spring.datasource.password= {Enter your sql password}
+**
+
+
+
 Problem Statement -
 ------------------
 1. A customer receives 2 points for every dollar spent over $100 in each transaction, plus 1 point for every dollar spent between $50 and $100 in each transaction. 
